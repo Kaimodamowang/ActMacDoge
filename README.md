@@ -8,7 +8,7 @@
 
 開啟 `ActMacDoge.app`，從選單列的鑰匙圖示切換語言或退出。試試輸入 `114514`？
 
-目前提供的 App 為 Apple Silicon 版本，使用 ad-hoc 簽章。下載後如果被 macOS 阻擋，可在確認來源可信後執行：
+目前提供的 App 為 Apple Silicon + x86_64 版本，使用 ad-hoc 簽章。下載後如果被 macOS 阻擋，可在確認來源可信後執行：
 
 ```bash
 xattr -cr /path/to/ActMacDoge.app
